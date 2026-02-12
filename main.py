@@ -4,7 +4,7 @@ import datetime
 from random import randint as ri
 
 total_day = 366 # how far back to start commits
-commit_freq = 3 # num of commits per day
+commit_freq = 10 # num of commits per day
 
 # set to True if you want the number of commits per day to be random for a more realistic graph
 variablity = False
